@@ -1,0 +1,29 @@
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\bin\Debug\RecruiterGroupProject.exe.config
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\bin\Debug\RecruiterGroupProject.exe
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\bin\Debug\RecruiterGroupProject.pdb
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.csprojResolveAssemblyReference.cache
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.ApplicantRegisterForm.resources
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.IdentificationForm.resources
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.Properties.Resources.resources
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.csproj.GenerateResource.cache
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.csproj.CoreCompileInputs.cache
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.exe
+c:\users\artem\source\repos\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.pdb
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\bin\Debug\RecruiterGroupProject.exe.config
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\bin\Debug\RecruiterGroupProject.exe
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\bin\Debug\RecruiterGroupProject.pdb
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.csprojAssemblyReference.cache
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.ApplicantMainForm.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.ApplicantRegisterForm.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.EmployerMainForm.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.EmployerRegisterForm.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.IdentificationForm.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.ResumeAdderForm.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.ResumeEditorForm.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.VacancyAdderForm.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.VacancyEditorForm.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.Properties.Resources.resources
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.csproj.GenerateResource.cache
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.csproj.CoreCompileInputs.cache
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.exe
+C:\Users\vetrov\Documents\ВШЭ\Распределенные системы\RecruiterGroupProject\RecruiterGroupProject\RecruiterGroupProject\obj\Debug\RecruiterGroupProject.pdb
